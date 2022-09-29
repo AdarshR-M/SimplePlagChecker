@@ -21,3 +21,9 @@ By their input signature (# of `(int, double, float, char, string, bool, other)`
 
 ***Note:*** Both these implememtations are very limited. Also, the criterion for score might not be universal as there might be some 
 code where boilerplate is huge, if that is the case, the scores will be high.
+
+
+To run the plag-checker,
+```
+./script.sh <file1> <file2>
+```
